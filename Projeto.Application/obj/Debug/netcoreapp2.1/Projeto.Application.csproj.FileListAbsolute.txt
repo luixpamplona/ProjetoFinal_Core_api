@@ -1,0 +1,11 @@
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\bin\Debug\netcoreapp2.1\Projeto.Application.deps.json
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\bin\Debug\netcoreapp2.1\Projeto.Application.dll
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\bin\Debug\netcoreapp2.1\Projeto.Application.pdb
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\obj\Debug\netcoreapp2.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\obj\Debug\netcoreapp2.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\obj\Debug\netcoreapp2.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\obj\Debug\netcoreapp2.1\Projeto.Application.dll
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\obj\Debug\netcoreapp2.1\Projeto.Application.pdb
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\bin\Debug\netcoreapp2.1\Projeto.Domain.dll
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\bin\Debug\netcoreapp2.1\Projeto.Domain.pdb
+C:\Users\Luiz Pamplona\Desktop\Projeto Final - Coti\Projeto Final - Coti\Projeto.Application\obj\Debug\netcoreapp2.1\Projeto.Application.csproj.CopyComplete
